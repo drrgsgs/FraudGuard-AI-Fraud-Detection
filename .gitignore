@@ -1,0 +1,18 @@
+# Original and generated datasets
+creditcard.csv
+suspicious_transactions.csv
+
+# Logs
+*.log
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Environment and secrets
+.venv/
+venv/
+.env
+
+# Temporary files
+.ipynb_checkpoints/

@@ -1,0 +1,21 @@
+{
+    "threshold": 0.25,
+    "accuracy": 0.9996,
+    "precision": 0.8925,
+    "recall": 0.8469,
+    "f1_score": 0.8691,
+    "roc_auc": 0.9478,
+    "pr_auc": 0.8597,
+    "confusion_matrix": [
+        [
+            56854,
+            10
+        ],
+        [
+            15,
+            83
+        ]
+    ],
+    "training_rows": 227845,
+    "testing_rows": 56962
+}
