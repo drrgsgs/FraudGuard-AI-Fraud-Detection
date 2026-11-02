@@ -1,3 +1,8 @@
+## 🚀 Live Demo
+
+[Open FraudGuard Dashboard](https://fraudguard-ai-fraud-detection.streamlit.app/)
+
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://fraudguard-ai-fraud-detection.streamlit.app/)
 # FraudGuard — AI-Powered Financial Risk Monitoring
 
 FraudGuard is a machine-learning-based financial risk monitoring dashboard that identifies potentially fraudulent credit card transactions and categorizes them by model risk score.
